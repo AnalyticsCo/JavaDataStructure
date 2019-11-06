@@ -1,2 +1,2 @@
 # JavaProjects
-This repositories contain java projects, and at all file you can find a description of project.
+This repositories contain java projects, and in the all files you can find a description of project.
